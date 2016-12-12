@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AudioRecordByBluetooth1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2283c7498be525de500e1dfe4798fd1a3792a4e6">
+        <dex dex="C:\AudioRecordByBluetooth1\app\build\intermediates\pre-dexed\debug\instant-run_693f5c9d760a78cbc09c162a06f055e92c191786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AudioRecordByBluetooth1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f774c7514c930191bab75ee253292f59dd0edd8e">
+        <dex dex="C:\AudioRecordByBluetooth1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5bb18f04f30802e9222a334b414ca471bb89428b.jar" />
+    </item>
+
+</items>

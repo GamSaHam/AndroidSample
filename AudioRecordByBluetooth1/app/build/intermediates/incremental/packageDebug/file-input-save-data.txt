@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Dec 12 09:12:47 KST 2016
+1.base=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+2.base=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+count=5
+1.set=DEX
+3.base=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.base=C\:\\AudioRecordByBluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
